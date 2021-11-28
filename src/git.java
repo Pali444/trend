@@ -10,7 +10,7 @@ public class git {
         int b = 2;
 
         int result = a + b;
-        
+
         System.out.println(result);
 }
 }
