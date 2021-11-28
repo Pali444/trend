@@ -7,5 +7,6 @@ class Main {
 
         System.out.println(result);
         System.out.println("Хорошо");
+        System.out.println(123);
     }
 }
