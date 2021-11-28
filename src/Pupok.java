@@ -6,5 +6,6 @@ class Main {
         int result = a + b;
 
         System.out.println(result);
+        System.out.println("Хорошо");
     }
 }
