@@ -8,5 +8,10 @@ class Main {
         System.out.println(result);
 
         System.out.println(123);
+        for (evewve);
+        switch (veve)
+            cvvwev
+                    sout
+
     }
 }
